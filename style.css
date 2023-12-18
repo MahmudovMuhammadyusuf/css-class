@@ -1,3 +1,15 @@
 h1{
     color: blue;
 }
+
+
+.remote{
+    color: rgb(0, 0, 0);
+}
+#remote1{
+ color: chartreuse;
+}
+
+ .new-remote{
+ color: deeppink;
+ }

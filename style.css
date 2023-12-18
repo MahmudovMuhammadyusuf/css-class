@@ -1,5 +1,6 @@
-h1{
+/* h1{
     color: blue;
+    background-color: brown;
 }
 
 
@@ -8,11 +9,12 @@ h1{
 }
 #remote1{
  color: chartreuse;
+ background-color: antiquewhite;
 }
 
  .new-remote{
  color: deeppink;
- }
+ } */
 
   /* .block{
      width: 400px;
@@ -24,13 +26,105 @@ h1{
 
      
   } */
-
-  .block{
+/* 
+   .block{
     width: 400px;
     height: 400px;
     border: 10px  solid black;
 
     background-color: blue;
     border-radius: 60px;
+     margin: auto;
+     margin:auto;
+     -webkit-animation: both;
+     text-shadow: none;
+  text-align: right;
+ text-align: unset; 
+}
+   */
+
+.block{
+
+  box-sizing: border-box;
+
+     width: 800px;
+     height: 500px;
+     /* background-color: blue; */
+
+     /* border-width: 15px;
+     border-color: black;
+     border-style: solid; */
+
+     border: 15px black solid;
+
+     background-image: url(https://hdpic.club/uploads/posts/2021-12/1639641252_10-hdpic-club-p-bugatti-chiron-10.jpg);
+     background-size: cover;
+     background-size:contain;
+    background-repeat: no-repeat;
+
+    
+  
+   
+     color: indigo;
+     background-color: black;
+     font-size: 40px;
+    /* text-align: center;
+    text-decoration-line: line-through;
+    text-rendering: unset;
+    text-decoration-color: red;
+    text-transform: initial;
+  -webkit-text-fill-color: aqua; */
+
+  text-align:center;
+  color: red;
+
+  margin-top: auto;
+ /* margin-left: auto; */
+
+ margin: auto ;
+ margin-top: 100px;
+
+ /* border-radius: 25px; */
+ border-radius: 50px;
+ border-radius: 400px;
+ border-radius: 50px;
+
+ /* border-bottom-left-radius: 100px;
+ border-top-right-radius: 100px;
+ border-bottom-right-radius: 100px;
+ border-bottom-left-radius: 100px;
+ border-top-right-radius: 100px;
+ border-top-left-radius: 100px;
+ border-style: dashed;
+border-spacing: 0cap; */
+
+/* border-radius: 400px 400px 400px 400px; */
+/* border-top-style: dashed;
+border-bottom-style: dashed; */
+border-style: dashed dashed;
+padding: 10px 15px 25px;
+
+
+
+
+
+ 
+  
+    
+
+
+
+
 
   }
+
+  html{
+    background-image: url(https://w.forfun.com/fetch/c3/c3c050a0ed5f52e3c43f83dbaa745679.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+  }
+  
+  
